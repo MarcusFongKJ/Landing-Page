@@ -2,9 +2,7 @@
 
 A simple sample landing page screen for an imaginary Adventure Tour Travel Agency.
 
-![Top Part of Landing Page](./images/page-top.png)
-
-![Bottom Part of Landing Page](./images/page-bottom.png)
+![Landing Page](./images/Main-Page.jpg)
 
 ### Photo Credits
 
