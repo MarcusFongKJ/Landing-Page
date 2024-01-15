@@ -1,7 +1,7 @@
 # Landing Page
 
 A simple sample landing page screen for an imaginary Adventure Tour Travel Agency.
-
+https://marcusfongkj.github.io/landing-page/
 ![Landing Page](./images/Main-Page.jpg)
 
 ### Photo Credits
